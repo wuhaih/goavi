@@ -1,0 +1,21 @@
+{
+    "memo": "90afeadc0b068623515c68b7db3e92c502e8306b5f8755aa97d7950516ce66ce",
+    "projects": [
+        {
+            "name": "github.com/zhangweilun/gor",
+            "version": "v1.1",
+            "revision": "08909125aaf32498901cb8cac36784a7f8203798",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/zhangweilun/goxmlpath",
+            "branch": "master",
+            "revision": "14d0c3737a52e8e91339deaee5afd145d61ec075",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
